@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/quest/static/css/main.9914b1f4.chunk.css",
+    "main.js": "/quest/static/js/main.6a25bc74.chunk.js",
+    "main.js.map": "/quest/static/js/main.6a25bc74.chunk.js.map",
+    "runtime~main.js": "/quest/static/js/runtime~main.0297c361.js",
+    "runtime~main.js.map": "/quest/static/js/runtime~main.0297c361.js.map",
+    "static/js/2.d6a534e5.chunk.js": "/quest/static/js/2.d6a534e5.chunk.js",
+    "static/js/2.d6a534e5.chunk.js.map": "/quest/static/js/2.d6a534e5.chunk.js.map",
+    "index.html": "/quest/index.html",
+    "precache-manifest.1ffbac430d50b168bdbf781e630fadc3.js": "/quest/precache-manifest.1ffbac430d50b168bdbf781e630fadc3.js",
+    "service-worker.js": "/quest/service-worker.js",
+    "static/css/main.9914b1f4.chunk.css.map": "/quest/static/css/main.9914b1f4.chunk.css.map",
+    "static/media/render-riddle.css": "/quest/static/media/2.474c07db.jpg"
+  }
+}
